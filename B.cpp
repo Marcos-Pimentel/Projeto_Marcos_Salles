@@ -12,4 +12,5 @@ class B{
 		void setB2(int a){B2 = a;}
 		void MB1(){cout << "MB1" << endl;}
 		void MB2(){cout << "MB2" << endl;}
+		void MB3(){cout << "MB3" << endl;}
 };
